@@ -5,3 +5,4 @@ Oil Painting;Fun Studios;Tricky;6;2
 Pottery;Fun Studios;Easy;7;2
 Snowboarding;Mt Hood Meadows;Not for Faint of heart;8;0
 Order Pizza;At Home;9;10;1
+Run;On the road;9;9;0
